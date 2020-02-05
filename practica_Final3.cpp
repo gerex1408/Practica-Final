@@ -7,7 +7,6 @@ i l'usuari entrara la opcio que convingui fins que tenqui el programa entrant la
 #include <string>
 using namespace std;
 
-//prova de git
 
 const int MAX=1000;
 const string EOS="SORTIR";
